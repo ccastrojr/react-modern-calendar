@@ -46,7 +46,7 @@ const PrincipalPage: React.FC = () => {
       <Footer>
         <p>
           developed by&nbsp;
-          <a href="https://github.com/ccastrojr" target="blank">ccastrojr ;)</a>
+          <a href="https://linkedin.com/in/ccastrojr" target="blank">ccastrojr ;)</a>
         </p>
       </Footer>
     </Container>
