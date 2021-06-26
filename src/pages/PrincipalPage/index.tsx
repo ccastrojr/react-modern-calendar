@@ -27,9 +27,6 @@ const PrincipalPage: React.FC = () => {
             the selected range. However, creating the entire component from 
             scratch could be very time-consuming and that's why we chose to use 
             the lib.
-            <br />
-            This is just a little to help when you have the same problem. Feel 
-            free to contribute with this implementation :)
           </p>
 
           <span>
