@@ -54,7 +54,7 @@ Builds the app for production to the `build` folder.
 ## 👋 Contribution 
 
 Feel free to contribute with this project. I'm open to suggestions :)
-Click [here](https://github.com/ccastrojr/inactivity-time-react/issues) to open a new issue.
+Click [here](https://github.com/ccastrojr/react-modern-calendar/issues) to open a new issue.
 
 
 ---
